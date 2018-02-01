@@ -4,9 +4,23 @@
 
 **Today's Progress**: Started working on a basic TicTacToe game
 
-**Thoughts:** Getting everything working in Visual Studio from a project started on GitHub was a lot more complicated than expected; spending time working on that robbed a fair amount of time from today's work, but I did at least get it started.
+**Thoughts:** Getting everything working in Visual Studio from a project started on GitHub was a lot more complicated than expected; spending 
+time working on that robbed a fair amount of time from today's work, but I did at least get it started.
 
 **Link to work:** [TicTacToe](https://github.com/poshcodebear/Tic-Tac-Toe)
+
+### Day 1: January 31, 2018
+
+**Today's Progress**: Made decent progress, all major components there, and grid drawing is made
+
+**Thoughts:** I should never forget to set up my .gitignore file when working with Visual Studio.  I should probably look up common gitignore patterns for it.
+
+That inital part of the coding session when I'm just staring at the screen trying to figure out what I'm going to do kind of sucks, but it feels good to push 
+past it.
+
+Also, I should be spending at least some time on Twitter for this...I guess I'm failing on that part.
+
+**Link to work:** [TicTacToe - commit](https://github.com/poshcodebear/Tic-Tac-Toe/commit/556537b9a9dd0d4ceb68e57a69013c68cb5b8d3a)
 
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
