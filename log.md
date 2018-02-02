@@ -4,7 +4,7 @@
 
 **Today's Progress**: Started working on a basic TicTacToe game
 
-**Thoughts:** Getting everything working in Visual Studio from a project started on GitHub was a lot more complicated than expected; spending 
+**Thoughts:** Getting everything working in Visual Studio from a project started on GitHub was a lot more complicated than expected; spending
 time working on that robbed a fair amount of time from today's work, but I did at least get it started.
 
 **Link to work:** [TicTacToe](https://github.com/poshcodebear/Tic-Tac-Toe)
@@ -15,30 +15,25 @@ time working on that robbed a fair amount of time from today's work, but I did a
 
 **Thoughts:** I should never forget to set up my .gitignore file when working with Visual Studio.  I should probably look up common gitignore patterns for it.
 
-That inital part of the coding session when I'm just staring at the screen trying to figure out what I'm going to do kind of sucks, but it feels good to push 
+That inital part of the coding session when I'm just staring at the screen trying to figure out what I'm going to do kind of sucks, but it feels good to push
 past it.
 
 Also, I should be spending at least some time on Twitter for this...I guess I'm failing on that part.
 
 **Link to work:** [TicTacToe - commit](https://github.com/poshcodebear/Tic-Tac-Toe/commit/556537b9a9dd0d4ceb68e57a69013c68cb5b8d3a)
 
-<!-- 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: February 1, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Grid now redraws each turn and game can prompt for player input
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** "The best time to plant a tree is 20 years ago.  The second best time is right now."
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+Fighing with console redraw is either frustrating or fun.  I'm really not sure which.  I'm confident the code I'm writing is ugly as sin, but it's kind of working for now.
+I'll either redo the ugly parts and make it more elegant before I'm done or leave it as a testament to my fledgeling skills forever.  Probably the second,
+but I will have at least one or two more days of working on this to figure it out.
 
+Who knows?  Maybe I'll wind up spending the entire 100 days refining this...
 
-### Day 1: June 27, Monday
+Oh boy. (Been watching too much Quantum Leap lately...)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+**Link to work:** [TicTacToe - commit](https://github.com/poshcodebear/Tic-Tac-Toe/commit/47ced09e5086c23403c54ccd6c9a00c1b6171c8a)
