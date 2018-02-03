@@ -37,3 +37,20 @@ Who knows?  Maybe I'll wind up spending the entire 100 days refining this...
 Oh boy. (Been watching too much Quantum Leap lately...)
 
 **Link to work:** [TicTacToe - commit](https://github.com/poshcodebear/Tic-Tac-Toe/commit/47ced09e5086c23403c54ccd6c9a00c1b6171c8a)
+
+### Day 3: February 2, 2018
+
+**Today's Progress**: Turn selection now uses arrow keys instead of prompting for numbers
+
+**Thoughts:** That was either easier or harder than I expected.  I wish I knew which one it was.
+
+Anyway, watching the various stages of it partially working as I was working on it was both frustrating (while things weren't working as expected)
+and satisfying (as I got things to work).
+
+Also, this wasn't exactly the part that I'd planned to work on; I'd actually planned on cleaning up some of the ugly parts to make them a bit more
+streamlined and get them to flow a bit better.  However, I had an idea on how to do this and wanted to see if it would work as expected, and
+naturally that meant the entire session got eaten with this.  That being said, doing this wound up unexpectedly giving me what I was after in the first place anyway.
+
+Looks like the unexpected theme of today is "the unexpected".  I guess I really should have expected that...
+
+**Link to work:** [TicTacToe - commit](https://github.com/poshcodebear/Tic-Tac-Toe/commit/ac0444582591278e1bd29290b3a24bef587254bd)
