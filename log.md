@@ -54,3 +54,15 @@ naturally that meant the entire session got eaten with this.  That being said, d
 Looks like the unexpected theme of today is "the unexpected".  I guess I really should have expected that...
 
 **Link to work:** [TicTacToe - commit](https://github.com/poshcodebear/Tic-Tac-Toe/commit/ac0444582591278e1bd29290b3a24bef587254bd)
+
+### Day 4: February 3, 2018
+
+**Today's Progress**: Added winning conditions and a main menu
+
+**Thoughts:** Not a lot to say about this one.  Can't really have a game without a way to win.
+
+This feels like it's almost done.  I need to do some cleaning up to make it loop back to the main menu, but other than that, the only things I can think
+to do with it are add a computer player (probably with a random selector, but maybe with a very rudamentary AI if I feel up to trying that) and 
+some tweaks to make option selection look and feel nicer.
+
+**Link to work:** [TicTacToe - commit](https://github.com/poshcodebear/Tic-Tac-Toe/commit/3d0bface3a916f4a33611d814bbe713f54494113)
