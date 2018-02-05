@@ -66,3 +66,14 @@ to do with it are add a computer player (probably with a random selector, but ma
 some tweaks to make option selection look and feel nicer.
 
 **Link to work:** [TicTacToe - commit](https://github.com/poshcodebear/Tic-Tac-Toe/commit/3d0bface3a916f4a33611d814bbe713f54494113)
+
+### Day 5: February 4, 2018
+
+**Today's Progress**: Added main loop and selection highlighting
+
+**Thoughts:** Other than any cleanup I feel like doing in the future or adding features like an AI opponent, this project is done.  I'm ready to
+move on to my next one.
+
+I'm feeling pretty good, even if I do feel like my game could still use a lot of improvements.
+
+**Link to work:** [TicTacToe - commit](https://github.com/poshcodebear/Tic-Tac-Toe/commit/3fb3004407004dc2e33e75f151842ea63592503e)
