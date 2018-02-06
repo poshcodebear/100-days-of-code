@@ -77,3 +77,17 @@ move on to my next one.
 I'm feeling pretty good, even if I do feel like my game could still use a lot of improvements.
 
 **Link to work:** [TicTacToe - commit](https://github.com/poshcodebear/Tic-Tac-Toe/commit/3fb3004407004dc2e33e75f151842ea63592503e)
+
+### Day 6: February 5, 2018
+
+**Today's Progress**: Started new project: JusTipe
+
+**Thoughts:** It always feels good to start something new, something exciting.
+
+Switching gears, moving into the world of WPF, and didn't even get to write hardly any actual C# code this time around.  Mostly spent the session
+drawing in the layout window and manipulating the XAML to get it to come out more or less the way I want.
+
+I'm not really sure if I should be focusing on the logic first or the GUI form first, but I decided to go with the GUI since I'm not really sure how
+to approach the challenge if I don't have anywhere for interaction to actually happen.  Maybe this is something I should be working on as well.
+
+**Link to work:** [JusTipe](https://github.com/poshcodebear/JusTipe)
