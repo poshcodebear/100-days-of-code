@@ -91,3 +91,19 @@ I'm not really sure if I should be focusing on the logic first or the GUI form f
 to approach the challenge if I don't have anywhere for interaction to actually happen.  Maybe this is something I should be working on as well.
 
 **Link to work:** [JusTipe](https://github.com/poshcodebear/JusTipe)
+
+### Day 7: February 6, 2018
+
+**Today's Progress**: JusTipe now functionally complete
+
+**Thoughts:** It also always feels good to get something you're working on pretty much done in one sitting.
+
+I'm hoping this doesn't wind up as an 80/20, where the last 20% of the project will take the other 80% of my time, but I do have some cleanup that
+I'll need to do before I will consider it "done".  Mostly, though, I think it's going to be minor tweaks (the text field should be adjusted to allow
+enter to work, and I need to make sure it will scroll), comments, and cleanup, though I might also take the time to add an actual user guide.
+
+I mean, these things are important, too.
+
+And I need to be thinking about what my next project is going to be.  I expected this one to not take long, but I didn't think it would be *this* fast!
+
+**Link to work:** [JusTipe - commit](https://github.com/poshcodebear/JusTipe/commit/aa11e7d5e7a8c3cfeb47e07a6beace0d84a4f96c)
