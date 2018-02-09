@@ -107,3 +107,14 @@ I mean, these things are important, too.
 And I need to be thinking about what my next project is going to be.  I expected this one to not take long, but I didn't think it would be *this* fast!
 
 **Link to work:** [JusTipe - commit](https://github.com/poshcodebear/JusTipe/commit/aa11e7d5e7a8c3cfeb47e07a6beace0d84a4f96c)
+
+### Day 8: February 8, 2018
+
+**Today's Progress**: Minor tweaks and improvements
+
+**Thoughts:** I didn't really take the full hour (more like 20 minutes), but I did still make progress.  The textbox now allows multiline entry, and
+the save button has some improvements as well.
+
+Even if it's just a little thing to say that I did do some code today, I'm glad I took the time to do it anyway.
+
+**Link to work:** [JusTipe - commit](https://github.com/poshcodebear/JusTipe/commit/4fe90c88f52f2aafe069782f8c4fe3fbc9fdf4ab)
