@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+## Project: TicTacToe
+
 ### Day 0: January 30, 2018
 
 **Today's Progress**: Started working on a basic TicTacToe game
@@ -62,7 +64,7 @@ Looks like the unexpected theme of today is "the unexpected".  I guess I really 
 **Thoughts:** Not a lot to say about this one.  Can't really have a game without a way to win.
 
 This feels like it's almost done.  I need to do some cleaning up to make it loop back to the main menu, but other than that, the only things I can think
-to do with it are add a computer player (probably with a random selector, but maybe with a very rudamentary AI if I feel up to trying that) and 
+to do with it are add a computer player (probably with a random selector, but maybe with a very rudamentary AI if I feel up to trying that) and
 some tweaks to make option selection look and feel nicer.
 
 **Link to work:** [TicTacToe - commit](https://github.com/poshcodebear/Tic-Tac-Toe/commit/3d0bface3a916f4a33611d814bbe713f54494113)
@@ -77,6 +79,8 @@ move on to my next one.
 I'm feeling pretty good, even if I do feel like my game could still use a lot of improvements.
 
 **Link to work:** [TicTacToe - commit](https://github.com/poshcodebear/Tic-Tac-Toe/commit/3fb3004407004dc2e33e75f151842ea63592503e)
+
+## Project: JusTipe
 
 ### Day 6: February 5, 2018
 
@@ -118,3 +122,14 @@ the save button has some improvements as well.
 Even if it's just a little thing to say that I did do some code today, I'm glad I took the time to do it anyway.
 
 **Link to work:** [JusTipe - commit](https://github.com/poshcodebear/JusTipe/commit/4fe90c88f52f2aafe069782f8c4fe3fbc9fdf4ab)
+
+### Day 9: February 9, 2018
+
+**Today's Progress**: Cleaned up code and added comments
+
+**Thoughts:** I'm just going to call this done at this point.
+
+Got started late again, but was able to get it to where I'm willing to call it "done".  I'll probably loop back around and add some documentation,
+or at least update the readme, but for now, this is good.
+
+**Link to work:** [JusTipe - commit](https://github.com/poshcodebear/JusTipe/commit/8c074e23611070384bbe42d736e32f2e93e1780c)
