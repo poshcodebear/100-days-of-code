@@ -133,3 +133,18 @@ Got started late again, but was able to get it to where I'm willing to call it "
 or at least update the readme, but for now, this is good.
 
 **Link to work:** [JusTipe - commit](https://github.com/poshcodebear/JusTipe/commit/8c074e23611070384bbe42d736e32f2e93e1780c)
+
+## Project: RSSSharp
+
+### Day 10: February 10, 2018
+
+**Today's Progress**: Started new project
+
+**Thoughts:** As usual, naming and getting everything set up seems to take longer than you'd think it would.
+
+Decided what some of the basic classes should be; I'm going to be doing this in a bit more OOP manner than my last two.  Though, still not exactly
+fully using OOP techniques.
+
+I do need to move the laptop I work on back into my office...too distracting where it is, and only having one monitor slows me down.
+
+**Link to work:** [RSSSharp](https://github.com/poshcodebear/RSSSharp)
